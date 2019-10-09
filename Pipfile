@@ -10,6 +10,7 @@ jupyter = "*"
 notebook = "*"
 lxml = "*"
 selenium = "*"
+tir = {editable = true,git = "https://github.com/totvs/tir.git"}
 
 [requires]
 python_version = "3.7"
